@@ -1,0 +1,15 @@
+Best VRP Distance: 784
+Nearest Neighbour VRP Heuristic Solution:
+Route # 1 :  [30, 26, 16, 12, 1, 7]
+Route # 2 :  [24, 14, 27, 20, 5, 29, 15, 10]
+Route # 3 :  [13, 21, 31, 19, 17]
+Route # 4 :  [6, 3, 2, 23, 28, 4, 11]
+Route # 5 :  [25, 22, 9, 18, 8]
+Nearest Neighbour VRP Heuristic Distance: 961
+Saving VRP Heuristic Solution:
+Route # 1 :  [1, 21, 31, 19, 17, 2, 3]
+Route # 2 :  [4, 11, 8, 28, 18, 9, 22, 15, 10]
+Route # 3 :  [5, 25, 29, 23, 6, 13, 7]
+Route # 4 :  [12, 16, 26, 30, 14, 24, 27]
+Route # 5 :  [20]
+Saving VRP Heuristic Distance: 958
